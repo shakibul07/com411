@@ -11,5 +11,5 @@ if (user_number % 2) == 0:
 
 #inside curly brackets user_number will print
 else:
-    print("{} is Odd".format(user_number))
-
+    print("{} is Odd number".format(user_number))
+    print(f"{user_number} is odd number")
