@@ -1,7 +1,7 @@
 def display_ladder(steps):
     for step in range(steps):
        print("| |")
-       print(steps)
+       print("*" * int(steps))
 
     print("| |")
 def getnumber():
