@@ -1,9 +1,12 @@
 print("Please enter a number? ")
 number = int(input())
 
-fac = 1
+fac = 0
 i = 1
+x = 1
 while i <= number:
-    fac = fac * i
-    i= i+1
+    fac = x * i
+    x *= i
+    i = i + 1
 print(fac)
+
