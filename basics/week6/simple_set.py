@@ -6,5 +6,4 @@ def run():
     obi = observed()
     print(obi)
 
-if __name__ == "__main__":
-    run()
+run()
