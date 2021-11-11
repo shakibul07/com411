@@ -1,0 +1,8 @@
+data
+|
+| -- staff
+|    |__ prins.txt
+|    |__ prins.png
+|
+| -- students
+|    |__ attendence.csv

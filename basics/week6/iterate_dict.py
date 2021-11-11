@@ -19,7 +19,7 @@ def display_values(data):
 
 def display_pairs(data):
     print("Pairs:")
-    for key,value in data:
+    for key,value in data.items():
         print(f"{key}: {value}")
     print()
 
